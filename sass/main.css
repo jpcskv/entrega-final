@@ -58,7 +58,7 @@ header .navbar a:hover {
 }
 
 section {
-  padding: 100px 0.05%;
+  padding: 100px 0.5%;
 }
 section .container {
   display: grid;
