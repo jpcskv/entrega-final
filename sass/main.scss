@@ -1,0 +1,15 @@
+@import "reset";
+@import "body";
+@import "header";
+@import "boxes";
+@import "about";
+@import "footer";
+@import "login";
+@import "media";
+
+@mixin bodyColor {
+    background: #f5f5f5;
+}
+body {
+    @include bodyColor
+}
